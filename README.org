@@ -1,0 +1,10 @@
+* quick-patch
+
+Easily override quicklisp projects without using git submodules
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tdrhq/quick-patch.git   |
+| commit  | {"messa  |
+| systems | quick-patch |
+|---------+-------------------------------------------|
+
