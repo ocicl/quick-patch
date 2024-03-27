@@ -2,9 +2,8 @@
 
 Easily override quicklisp projects without using git submodules
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/tdrhq/quick-patch.git   |
-| commit  | 0df5872  |
-| systems | quick-patch |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------|
+| source  | git:https://github.com/tdrhq/quick-patch.git |
+| commit  | f431637                                      |
+| systems | quick-patch                                  |
+|---------+----------------------------------------------|
