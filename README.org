@@ -7,3 +7,4 @@ Easily override quicklisp projects without using git submodules
 | commit  | f431637                                      |
 | systems | quick-patch                                  |
 |---------+----------------------------------------------|
+ 
